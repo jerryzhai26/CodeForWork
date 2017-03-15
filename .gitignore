@@ -29,7 +29,7 @@
 *.app
 
 # VS ProjectFile
-*.vcxProj
+*.vcxproj
 *.filters
 
 /Debug
